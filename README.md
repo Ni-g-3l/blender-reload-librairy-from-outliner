@@ -7,6 +7,13 @@ Reload librairy from Outliner easily
 
 This project was bootstrapped with [Blender Addon Template](git@github.com:kitchen-production/blender-addon-template.git).
 
+## ⚙️ How it works
+
+1. Select Linked object inside Outliner
+2. Righ Click > Reload
+
+![reload_op](.media/reload_operator.png)
+
 ## ⚙️ Commands
 
 In the project directory, you can run:
